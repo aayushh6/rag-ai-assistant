@@ -128,7 +128,7 @@ What is machine learning?
 
 ## 👨‍💻 Author
 
-**Sanjeet Kumar**
+**Ayush Kumar**
 AI/ML Engineer | Developer
 
 ---
